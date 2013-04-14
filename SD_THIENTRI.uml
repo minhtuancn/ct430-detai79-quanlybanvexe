@@ -683,13 +683,13 @@
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">52</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">492</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">459</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">493</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">0azuL5Sm4U+ZPv7C2c/PoQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="a1OyYQgDeEWfKrQENx4zlQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="XdDl3KoqhEy2viUKXEeQ2wAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Tim danh sach vi tri ghe cua mot chuyen theo trang thai</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Tim danh sach vi tri ghe cua mot chuyen theo trang thai ghe</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="PLl67LOsVEqfzuVM0YeaaQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -1002,7 +1002,7 @@
 <XPD:OBJ name="OwnedViews[25]" type="UMLExtendView" guid="4LKDpwBTF0SLLN+Hh75cwQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">669,467;463,492</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">673,467;474,492</XPD:ATTR>
 <XPD:REF name="Model">KO1BXWpYYEa80UXJiv48egAA</XPD:REF>
 <XPD:REF name="Head">5VpeFE5/ikiLi3BDhd0ZzQAA</XPD:REF>
 <XPD:REF name="Tail">hasGLPVQAUWudiJ2cJd1SwAA</XPD:REF>
@@ -1028,7 +1028,7 @@
 <XPD:OBJ name="OwnedViews[26]" type="UMLExtendView" guid="2H9UGIhn5EiCrtWiZX6suQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">403,435;315,492</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">406,435;328,492</XPD:ATTR>
 <XPD:REF name="Model">uyvXtUtUUkyFuo9SZQ1hxgAA</XPD:REF>
 <XPD:REF name="Head">5VpeFE5/ikiLi3BDhd0ZzQAA</XPD:REF>
 <XPD:REF name="Tail">K4BVkj9rikmyVC8XLCPTbwAA</XPD:REF>
@@ -1054,7 +1054,7 @@
 <XPD:OBJ name="OwnedViews[27]" type="UMLGeneralizationView" guid="02DReikC106oI/6J3yaS3wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">279,492;263,352</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">293,492;265,352</XPD:ATTR>
 <XPD:REF name="Model">x5HEdImfpE6tDByBV+qTjwAA</XPD:REF>
 <XPD:REF name="Head">7kfgzus4q0K1xUw2F3/4xwAA</XPD:REF>
 <XPD:REF name="Tail">5VpeFE5/ikiLi3BDhd0ZzQAA</XPD:REF>
@@ -1082,13 +1082,13 @@
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">304</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">240</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">121</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">182</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">EP41RPPdPEuflNf94GKcQAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="PpykO8TzS0WAvYuV0VEGnwAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="m7Hr3FkVHESsNTrCG1Ly+AAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">xem tuyen</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">xem tat ca cac tuyen</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="rUwTUZ8bnUu94npuRPD42QAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -1113,7 +1113,7 @@
 <XPD:OBJ name="OwnedViews[29]" type="UMLAssociationView" guid="/oIWSrA6nEeUHkV5VqSvGAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">140,253;304,260</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">140,252;304,258</XPD:ATTR>
 <XPD:REF name="Model">lfYjZatEUUuZn81DfhtWdwAA</XPD:REF>
 <XPD:REF name="Head">FLTrH2JZ6Eat3eXoW2ukcQAA</XPD:REF>
 <XPD:REF name="Tail">nVvttUHuR0mdDfYUoafHngAA</XPD:REF>
@@ -4274,7 +4274,7 @@
 <XPD:REF name="Extension">n6ycBO2oOUea7dacXT7/vwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[91]" type="UMLUseCase" guid="0azuL5Sm4U+ZPv7C2c/PoQAA">
-<XPD:ATTR name="Name" type="string">Tim danh sach vi tri ghe cua mot chuyen theo trang thai</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Tim danh sach vi tri ghe cua mot chuyen theo trang thai ghe</XPD:ATTR>
 <XPD:REF name="Namespace">N2In0ZQabkSZFEKA0R8MiAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">5VpeFE5/ikiLi3BDhd0ZzQAA</XPD:REF>
@@ -4661,7 +4661,7 @@
 <XPD:REF name="Views[3]">2uG/BtKCuUudcGHupCdZBwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[136]" type="UMLUseCase" guid="EP41RPPdPEuflNf94GKcQAAA">
-<XPD:ATTR name="Name" type="string">xem tuyen</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">xem tat ca cac tuyen</XPD:ATTR>
 <XPD:REF name="Namespace">N2In0ZQabkSZFEKA0R8MiAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">FLTrH2JZ6Eat3eXoW2ukcQAA</XPD:REF>
@@ -8004,7 +8004,7 @@
 <XPD:ATTR name="Height" type="integer">53</XPD:ATTR>
 <XPD:REF name="Model">VMAzJdXy3UC62m/acXVlvQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="LabelView" guid="R1BAE43/mk6ta8hnKAys0AAA">
-<XPD:ATTR name="Text" type="string">Xem tuyen</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Xem tat ca cac tuyen</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="FrameTypeLabel" type="LabelView" guid="5XnCWHbhxk6vwb5XxFzT1AAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
@@ -8030,7 +8030,7 @@
 <XPD:OBJ name="OwnedViews[9]" type="UMLFrameView" guid="69ybvuzHXkKyafWRkyaVGgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">1104</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">1089</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">848</XPD:ATTR>
 <XPD:REF name="Model">ppGuXnXGz0+oLferv3dmVAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="LabelView" guid="135CJBTvRkKBwhfTVAHCXAAA">
@@ -8522,7 +8522,7 @@
 <XPD:REF name="Views[0]">lcVqZ533IUeiDiMo8m/sdgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedFrames[9]" type="UMLFrame" guid="VMAzJdXy3UC62m/acXVlvQAA">
-<XPD:ATTR name="Name" type="string">Xem tuyen</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Xem tat ca cac tuyen</XPD:ATTR>
 <XPD:ATTR name="FrameKind" type="string">ref</XPD:ATTR>
 <XPD:REF name="InteractionInstanceSet">kaLTMAFCHkqObclyLYPz7wAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">1</XPD:ATTR>
@@ -11258,11 +11258,11 @@
 <XPD:ATTR name="Height" type="integer">68</XPD:ATTR>
 <XPD:REF name="Model">dPbJbA1D0EGeA2rP4Ksx6gAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="LabelView" guid="WLp1Plu9s0CeH4ROa0+59wAA">
-<XPD:ATTR name="Text" type="string">Tim danh sach vi tri ghe cua mot chuyen theo trang thai</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Tim danh sach vi tri ghe cua mot chuyen theo trang thai ghe</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="FrameTypeLabel" type="LabelView" guid="ygCdV/aAP0uC5awM5KAnoAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">sd</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">ref</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedViews[4]" type="UMLCombinedFragmentView" guid="6B4pJOZuB0qE+AZvGR4GEgAA">
@@ -11329,9 +11329,9 @@
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">36</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">504</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">813</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">120</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">500</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">801</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">124</XPD:ATTR>
 <XPD:REF name="Model">8MzbsLocCk2xg9js2Z/meQAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="LabelView" guid="bgUELBuzJ06JGC9W5yax8wAA">
 <XPD:ATTR name="Text" type="string">[stt == 3]</XPD:ATTR>
@@ -11345,9 +11345,9 @@
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">36</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">524</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">813</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">100</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">520</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">801</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">104</XPD:ATTR>
 <XPD:REF name="Model">BqKceaZK2EOd4QCl8BPm8gAA</XPD:REF>
 <XPD:REF name="ContainerView">F6WQh20Q80uhP6fkBiQyiAAA</XPD:REF>
 <XPD:OBJ name="GuardLabel" type="LabelView" guid="w8nH10mL9UGaeoQ0Y/04VAAA">
@@ -11724,8 +11724,8 @@
 <XPD:REF name="Views[0]">Z7Xo1PCrkUuj4hem0w552wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedFrames[4]" type="UMLFrame" guid="dPbJbA1D0EGeA2rP4Ksx6gAA">
-<XPD:ATTR name="Name" type="string">Tim danh sach vi tri ghe cua mot chuyen theo trang thai</XPD:ATTR>
-<XPD:ATTR name="FrameKind" type="string">sd</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Tim danh sach vi tri ghe cua mot chuyen theo trang thai ghe</XPD:ATTR>
+<XPD:ATTR name="FrameKind" type="string">ref</XPD:ATTR>
 <XPD:REF name="InteractionInstanceSet">cblL4JxM5ECV7QpCUAsctAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">1</XPD:ATTR>
 <XPD:REF name="Views[0]">TpgU09/kDUO7AsSq5tnplAAA</XPD:REF>
@@ -20846,7 +20846,7 @@
 <XPD:REF name="Context">H3oF/57UbkuOJnO0xL78WgAA</XPD:REF>
 <XPD:ATTR name="#OwnedDiagrams" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="OwnedDiagrams[0]" type="UMLSequenceDiagram" guid="301BHy0MuECdOZ+A+4QZjQAA">
-<XPD:ATTR name="Name" type="string">Xem tuyen</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Xem tat ca cac tuyen</XPD:ATTR>
 <XPD:REF name="DiagramOwner">YGIKiJCpaUWElf0br0YexwAA</XPD:REF>
 <XPD:OBJ name="DiagramView" type="UMLSequenceDiagramView" guid="wcvash8wWkuW4CS9tjqGAgAA">
 <XPD:REF name="Diagram">301BHy0MuECdOZ+A+4QZjQAA</XPD:REF>
@@ -20860,7 +20860,7 @@
 <XPD:ATTR name="Height" type="integer">401</XPD:ATTR>
 <XPD:REF name="Model">YyPzDOA3r0Om1Ep2E9OhDwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="LabelView" guid="h2N+2/bIhk+MfW/LKvguswAA">
-<XPD:ATTR name="Text" type="string">Xem tuyen</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Xem tat ca cac tuyen</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="FrameTypeLabel" type="LabelView" guid="dG/G8rT3uUqLiSrUjxTuVAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
@@ -20994,7 +20994,7 @@
 </XPD:OBJ>
 <XPD:ATTR name="#OwnedFrames" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="OwnedFrames[0]" type="UMLFrame" guid="YyPzDOA3r0Om1Ep2E9OhDwAA">
-<XPD:ATTR name="Name" type="string">Xem tuyen</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Xem tat ca cac tuyen</XPD:ATTR>
 <XPD:ATTR name="FrameKind" type="string">sd</XPD:ATTR>
 <XPD:REF name="InteractionInstanceSet">YGIKiJCpaUWElf0br0YexwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">1</XPD:ATTR>
